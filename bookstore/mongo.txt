@@ -1,0 +1,90 @@
+// books
+{
+        "_id" : ObjectId("57fcf027d3c8253d04925716"),
+        "title" : "Muder house",
+        "genre" : "Suspence",
+        "description" : "sdhjdsf dshfdsf dhfjf dshfh sdfhjh",
+        "author" : "James van",
+        "publisher" : "brown and co",
+        "pages" : "480",
+        "image_url" : "https://images-na.ssl-images-amazon.com/images/I/41XOGMgVe9L._SX341_BO1,204,203,200_.jpg"
+}
+{
+        "_id" : ObjectId("57fcf0d7d3c8253d04925717"),
+        "title" : "Insidious",
+        "genre" : "Thriller",
+        "description" : "pkpkp pkk wewe",
+        "author" : "Rusuall crown",
+        "publisher" : "feature company",
+        "pages" : "990",
+        "image_url" : "https://webassets.mongodb.com/_com_assets/global/mongodb-logo-white.png"
+}
+{
+        "_id" : ObjectId("580373b75440f925bccae5f9"),
+        "title" : "Head First c#",
+        "genre" : "Technology",
+        "description" : "Basics of c#",
+        "author" : "Brain",
+        "publisher" : "laure",
+        "pages" : 990,
+        "image_url" : "http://cdn-web.3t.io/wp-content/uploads/N_3tio_317x156px_01_06_gruen.png",
+        "create_date" : ISODate("2016-10-16T12:33:59.104Z"),
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("58072388d82a7831409f4089"),
+        "title" : "Node Js",
+        "genre" : "Technology",
+        "description" : "Node.js is a very powerful JavaScript-based framework/platform built on Google Chrome's JavaScript V8 Engine.",
+        "author" : "Tutorials Point",
+        "publisher" : "Tutorials Point",
+        "pages" : "267",
+        "image_url" : "http://code-maven.com/img/node.png",
+        "create_date" : ISODate("2016-10-19T07:40:56.493Z"),
+        "__v" : 0
+}
+
+// genres
+
+{
+        "_id" : ObjectId("580339ee8857f019a07ca8ea"),
+        "name" : "Self Help",
+        "create_date" : ISODate("2016-10-16T08:27:26.888Z"),
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("58033a848857f019a07ca8eb"),
+        "name" : "Suspence",
+        "create_date" : ISODate("2016-10-16T08:29:56.199Z"),
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("58033a898857f019a07ca8ec"),
+        "name" : "Romance",
+        "create_date" : ISODate("2016-10-16T08:30:01.775Z"),
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("58033a918857f019a07ca8ed"),
+        "name" : "Biography",
+        "create_date" : ISODate("2016-10-16T08:30:09.959Z"),
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("58033a9e8857f019a07ca8ee"),
+        "name" : "Techcnology",
+        "create_date" : ISODate("2016-10-16T08:30:22.123Z"),
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("58033aa78857f019a07ca8ef"),
+        "name" : "AutoBiography",
+        "create_date" : ISODate("2016-10-16T08:30:31.259Z"),
+        "__v" : 0
+}
+{
+        "_id" : ObjectId("58033ab48857f019a07ca8f0"),
+        "name" : "Thriller",
+        "create_date" : ISODate("2016-10-16T08:30:44.618Z"),
+        "__v" : 0
+}

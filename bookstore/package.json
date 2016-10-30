@@ -1,0 +1,22 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Sample Book Store",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashok Kumaresan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "express": "*",
+    "jquery": "*",
+    "multer": "*",
+    "multer-s3": "*",
+	"mongoose":"*",
+	"angular":"*",
+	"angular-route":"*"
+  }
+}
